@@ -70,8 +70,11 @@ print("Predicted Result:",y_prednew)
 ```
 
 ## Output:
+![Screenshot 2024-11-07 093607](https://github.com/user-attachments/assets/08b29e6e-effc-4abf-be92-b1a7236f2113)
+![Screenshot 2024-11-07 093719](https://github.com/user-attachments/assets/ffef58c7-5a7d-4382-afb7-e5ca9af04ead)
 ![image](https://github.com/user-attachments/assets/fe2b7656-13c1-4947-af59-26a000f449e9)
-![image](https://github.com/user-attachments/assets/c4750454-8ced-42f0-b2a0-03602e69de1d)
+![Screenshot 2024-11-07 093752](https://github.com/user-attachments/assets/d1c11f95-84c7-4636-952b-98a81e37b02d)
+
 
 
 
